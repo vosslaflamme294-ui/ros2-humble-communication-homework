@@ -16,8 +16,8 @@ class StudentPublisher(Node):
     def publish_student_info(self):
         self.count += 1
         msg = StudentInfo()
-        msg.name = "Zhang"
-        msg.student_id = 20260001
+        msg.name = "张嘉玮"
+        msg.student_id = 202342971
         msg.major = "Robotics"
         msg.score = 95.0
         msg.stamp = self.get_clock().now().to_msg()

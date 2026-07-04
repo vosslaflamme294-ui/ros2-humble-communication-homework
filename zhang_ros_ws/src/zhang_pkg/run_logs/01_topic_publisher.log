@@ -1,3 +1,3 @@
-[INFO] [1783177511.308694404] [student_publisher]: publish #1: zhang_pkg.msg.StudentInfo(name='Zhang', student_id=20260001, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783177511, nanosec=303618455))
-[INFO] [1783177512.304104801] [student_publisher]: publish #2: zhang_pkg.msg.StudentInfo(name='Zhang', student_id=20260001, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783177512, nanosec=303606110))
-[INFO] [1783177513.304098696] [student_publisher]: publish #3: zhang_pkg.msg.StudentInfo(name='Zhang', student_id=20260001, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783177513, nanosec=303602378))
+[INFO] [1783179046.703209161] [student_publisher]: publish #1: zhang_pkg.msg.StudentInfo(name='张嘉玮', student_id=202342971, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783179046, nanosec=696183333))
+[INFO] [1783179047.696652175] [student_publisher]: publish #2: zhang_pkg.msg.StudentInfo(name='张嘉玮', student_id=202342971, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783179047, nanosec=696148719))
+[INFO] [1783179048.696662404] [student_publisher]: publish #3: zhang_pkg.msg.StudentInfo(name='张嘉玮', student_id=202342971, major='Robotics', score=95.0, stamp=builtin_interfaces.msg.Time(sec=1783179048, nanosec=696161324))

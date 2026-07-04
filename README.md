@@ -1,4 +1,4 @@
-# Ubuntu 22.04 + ROS2 Humble 作业
+# Ubuntu 22.04 + ROS2 Humble 安装与通信机制实验
 
 本作业基于当前已安装的 Ubuntu 22.04 与 ROS2 Humble 环境完成。
 
@@ -7,7 +7,7 @@
 - 自定义消息：`msg/StudentInfo.msg`
 - 自定义服务：`srv/AddTwoInts.srv`
 - 自定义动作：`action/CountUntil.action`
-- 报告：`实验报告_ROS2_Humble_按原表格_张同学.docx`
+- 报告：`实验报告_Ubuntu22.04_ROS2_Humble_张嘉玮.docx`
 
 ## 编译
 
