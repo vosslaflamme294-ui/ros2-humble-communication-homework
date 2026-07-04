@@ -1,0 +1,2 @@
+[INFO] [1783177517.545259601] [add_two_ints_server]: service /add_two_ints is ready
+[INFO] [1783177518.787678333] [add_two_ints_server]: request: 12 + 30 = 42

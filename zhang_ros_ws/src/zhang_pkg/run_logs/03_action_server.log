@@ -1,0 +1,7 @@
+[INFO] [1783177525.644642673] [count_until_action_server]: action /count_until is ready
+[INFO] [1783177526.898460888] [count_until_action_server]: receive goal: target=5, period=0.20s
+[INFO] [1783177526.899085460] [count_until_action_server]: feedback: current=1, progress=20%
+[INFO] [1783177527.099797730] [count_until_action_server]: feedback: current=2, progress=40%
+[INFO] [1783177527.300637269] [count_until_action_server]: feedback: current=3, progress=60%
+[INFO] [1783177527.501544490] [count_until_action_server]: feedback: current=4, progress=80%
+[INFO] [1783177527.702248666] [count_until_action_server]: feedback: current=5, progress=100%

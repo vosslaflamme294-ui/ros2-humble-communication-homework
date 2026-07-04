@@ -1,0 +1,16 @@
+build/
+install/
+log/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+*.zip
+*.tar.gz
+*.bag
+*.db3
+.env
+*.pem
+*.key
+*.crt
